@@ -1,0 +1,7 @@
+# Aiken compilation artifacts
+swap/artifacts/
+# Aiken's project working directory
+swap/build/
+# Aiken's default documentation export
+swap/docs/
+swap/.github
